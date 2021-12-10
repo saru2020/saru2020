@@ -1,6 +1,6 @@
 ## Hello, World 👋! I am Saru.
 
-### I work with Languages and Tools:
+### I work with these Languages and Tools:
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
