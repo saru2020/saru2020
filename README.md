@@ -23,9 +23,9 @@ and
 <a href="https://aws.amazon.com/"><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/aws.svg"></a>
 <a href="https://www.docker.com/"><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/docker.svg"></a>
 <a href="https://www.jenkins.io/"><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jenkins.svg"></a>
-<a href=""><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/opensource.svg"></a>
-<a href=""><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/apple.svg"></a>
-<a href=""><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/appstore.svg"></a>
+<a href="https://opensource.com/"><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/opensource.svg"></a>
+<a href="https://www.apple.com/"><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/apple.svg"></a>
+<a href="https://www.apple.com/app-store/"><img height="30" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/appstore.svg"></a>
   
 
 </p>
