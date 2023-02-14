@@ -5,6 +5,7 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left" style="background-color:#fff">
 <a href="[https://developer.apple.com/swift/](https://flutter.dev/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> </a>
+<a href="[https://developer.apple.com/swift/](https://flutter.dev/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="flutter" width="30" height="30"/> </a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a>
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="objectivec" width="30" height="30"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30"/> </a>
