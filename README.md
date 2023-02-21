@@ -39,4 +39,4 @@ and
 
 <!-- ![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saru2020&theme=default) -->
 
-<!-- ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saru2020&theme=default) -->
+<!-- ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saru2020&theme=defaultinclude_all_commits=true) -->
