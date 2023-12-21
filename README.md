@@ -11,9 +11,9 @@
 <a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img src="https://user-images.githubusercontent.com/1034916/194136371-5b8b1b65-bbf8-48cc-961e-e73c67ce0060.svg" alt="amazon-dynamodb" width="30" height="30"/> </a>
 <a href="[https://developer.apple.com/swift/](https://flutter.dev/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="flutter" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-<a href="[https://developer.apple.com/swift/](https://flutter.dev/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> </a>
 
   Also,<br/>
+<a href="[https://developer.apple.com/swift/](https://flutter.dev/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> </a>
 <a href="[https://developer.apple.com/swift/](https://flutter.dev/)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="flutter" width="30" height="30"/> </a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a>
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="objectivec" width="30" height="30"/> </a>
