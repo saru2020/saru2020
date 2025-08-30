@@ -39,6 +39,12 @@
 
 ![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saru2020&theme=default)
 
+<!-- 
+  <a href="https://github.com/frederik-uni">
+    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saru2020&layout=compact&langs_count=8&card_width=130&theme=vue&hide=html,css" /> 
+  </a>
+  -->
+
 <!-- ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saru2020&theme=defaultinclude_all_commits=true) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saru2020" alt="saru2020" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saru2020" alt="saru2020" /></a> </p> 
