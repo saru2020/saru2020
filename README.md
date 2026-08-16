@@ -35,9 +35,9 @@
 
 **Sometimes, I write [here](https://saru2020.medium.com/)**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saru2020&show_icons=true&theme=dark&locale=en" alt="saru2020" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=saru2020&show_icons=true&theme=dark&locale=en" alt="saru2020" /></p>
 
-![Contribution in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saru2020&theme=default)
+![Contribution in the last year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saru2020&theme=default)
 
 <!-- 
   <a href="https://github.com/frederik-uni">
