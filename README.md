@@ -47,4 +47,4 @@
 
 <!-- ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saru2020&theme=defaultinclude_all_commits=true) -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saru2020" alt="saru2020" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=saru2020" alt="saru2020" /></a> </p> 
